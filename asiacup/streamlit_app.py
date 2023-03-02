@@ -5,7 +5,7 @@ import streamlit as st
 st.set_page_config(page_title='Asia cup Analysis',layout='wide')
 # st.title("Asia Cup Data")
 # st.text(" ") 
-# st.image("/home/tejas/Downloads/Asia_cup.jpg")
+st.image("/home/tejas/Downloads/Asia_cup.jpg")
 
 # def load_lottieurl(url):
 #     r=requests.get(url)
