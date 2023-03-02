@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
 # from streamlit_lottie import st_lottie
-pip install streamlit
+# pip install streamlit
 st.set_page_config(page_title='Asia cup Analysis',layout='wide')
 # st.title("Asia Cup Data")
 # st.text(" ") 
