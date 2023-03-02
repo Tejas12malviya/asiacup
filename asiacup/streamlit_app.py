@@ -1,7 +1,7 @@
 import requests
 import streamlit as st
 # from streamlit_lottie import st_lottie
-
+pip install streamlit
 st.set_page_config(page_title='Asia cup Analysis',layout='wide')
 # st.title("Asia Cup Data")
 # st.text(" ") 
@@ -210,7 +210,8 @@ elif chosen_id == "tab4":
     df39=df38[df38['Run Scored']>300.0000]
 #     with st.sidebar:
     st.table(df39)
-        
+
+!streamlit run /home/tejas/Desktop/test/python/streamlit_app.py     
 # import streamlit as st
 # from streamlit_javascript import st_javascript
 
